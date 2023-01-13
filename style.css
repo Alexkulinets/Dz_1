@@ -1,0 +1,91 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+body{
+    background: #0C192B;
+}
+header{
+    margin-top:150px;
+}
+.svg{
+    height:200px;
+    width:225px;
+    margin-right:auto;
+    margin-left:auto;
+    display:flex;
+    justify-content:center;
+    z-index: 2;
+    margin-top:-100px;
+}
+.vall{
+    height:200px;
+    width:225px;
+    margin-right:auto;
+    margin-left:auto;
+    display:flex;
+    
+    justify-content:center;
+
+}
+.va{
+    stroke: #F49352;
+    stroke-width: 50px;
+    height:50px;
+    stroke-linecap: round;
+}
+.valll{
+    stroke: #E53C54;
+    stroke-width: 50px;
+    height:50px;
+    stroke-linecap: round;
+  }
+
+
+  .pres{
+    height:200px;
+    width:225px;
+    margin-right:auto;
+    margin-left:auto;
+    display:flex;
+    justify-content:center;
+    z-index: 2;
+    margin-top:-100px;
+  }
+
+  .press{
+    stroke: #3EBB90;
+    stroke-width: 50px;
+    height:50px;
+    stroke-linecap: round;
+  }
+
+  .circle{
+    margin-right:auto;
+    margin-left:auto;
+    display:flex;
+    justify-content:center;
+    z-index: 3;
+    margin-bottom:-103px;
+  }
+
+
+
+  .circlee{
+    fill:#8352A1;
+  }
+
+
+  .cercle{
+    margin-right:auto;
+    margin-left:740px;
+    display:flex;
+    justify-content:center;
+    z-index: 4;
+    margin-top:-148px;
+  }
+
+  .cerclee{
+    fill:#3E99D3;
+  }
